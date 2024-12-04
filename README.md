@@ -16,7 +16,7 @@
 **Internet**
 Internet: Globales Netzwerk, welches die weltweite Kommunikation ermöglicht durch den Zusammenschluss von Servern ermöglicht.
 
-![Internet](./Internet.png)
+![Internet](./Images/Internet.png)
 
 
 
