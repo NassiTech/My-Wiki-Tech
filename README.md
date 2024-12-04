@@ -13,6 +13,7 @@
 **Internet**
 Internet: Globales Netzwerk, welches die weltweite Kommunikation ermöglicht durch den Zusammenschluss von Servern ermöglicht.
 
+![Internet](image.png)
 
 **Pfade**
 absoluter Pfad: Geht von dem Ursprung des Dateisystems aus (auf Windows wäre das C://)
@@ -28,25 +29,4 @@ Hardware Komponenten
 **CPU**: Central Processing Unit - Prozessor
 
 **RAM**: Random Access Memory - Arbeitsspeicher. Kurzzeitspeicher
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 1 watching
-Forks
- 3 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
-© 2024 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
+
