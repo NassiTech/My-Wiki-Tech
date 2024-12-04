@@ -36,3 +36,5 @@ Hardware Komponenten
 **IDE** (Integrated Development Environment):  ist eine Software, die Programmierer beim Entwickeln von Anwendungen unterstützt. Sie bietet eine Vielzahl von Tools und Funktionen, die in einer einzigen Benutzeroberfläche integriert sind, um das Schreiben, Debuggen und Verwalten von Code zu erleichtern.
 
 **PowerShell** is a powerful scripting language and command-line shell developed by Microsoft. It is primarily designed for system administrators and power users to automate tasks, configure systems, and manage servers and workstations.
+
+**SSD**: (Solid State Drive) is a type of data storage device that uses flash memory to store information, offering faster read/write speeds, lower power consumption, and better durability compared to traditional Hard Disk Drives (HDDs). SSDs have no moving parts, making them more reliable and quieter.
