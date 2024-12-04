@@ -4,7 +4,8 @@
 *Backend*: Der Benutzer sieht die Backend Services nicht bzw. interagiert damit nicht direkt
 *Client*: Das Benutzerendgerät
 *Server*: ist ein Gerät, das Anfragen von Clients verarbeitet und die angeforderten Dienste bereitstellt
-![Client Server Model](./Images/client_server_model.png)
+
+![Client Server Model](./Images/server.png)
 
 
 
