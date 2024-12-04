@@ -25,13 +25,13 @@ Entwicklungsumgebung
 Software: Programm/Anwendungen. Man kann Software nicht anfassen
 Hardware: Physische Komponenten des Computers/Server. Zum Beispiel CPU wäre eine Hardware Komponente
 **Betriebssystem** bzw. OS: Windows, Android, iOS. Schnittstelle zwischen Hardware und Software
-Hardware Komponenten
-**CPU**: Central Processing Unit - Prozessor
+**Hardware Komponenten**
+### **CPU**: Central Processing Unit - Prozessor
 
-**RAM**: Random Access Memory - Arbeitsspeicher. Kurzzeitspeicher
+### **RAM**: Random Access Memory - Arbeitsspeicher. Kurzzeitspeicher
 
 
- **WSL** : (Windows Subsystem for Linux) is a compatibility layer that allows you to run Linux distributions natively on Windows. It enables developers to use Linux command-line tools, scripts, and applications directly on a Windows machine without the need for a virtual machine or dual booting.
+ ### **WSL** : (Windows Subsystem for Linux) is a compatibility layer that allows you to run Linux distributions natively on Windows. It enables developers to use Linux command-line tools, scripts, and applications directly on a Windows machine without the need for a virtual machine or dual booting.
 
 **IDE** (Integrated Development Environment):  ist eine Software, die Programmierer beim Entwickeln von Anwendungen unterstützt. Sie bietet eine Vielzahl von Tools und Funktionen, die in einer einzigen Benutzeroberfläche integriert sind, um das Schreiben, Debuggen und Verwalten von Code zu erleichtern.
 
