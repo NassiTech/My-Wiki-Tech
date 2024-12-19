@@ -6,18 +6,19 @@
 https://stackoverflow.com/questions/8380389/get-day-name-from-datetime
 https://stackoverflow.com/questions/74853453/days-till-year-end
 
-
+## The datetime module : supplies classes for manipulating dates and times. https://docs.python.org/3/library/datetime.html
  in order to use the datetime function, it is necessary to import it first. -> command "import datetime" module 
- The datetime module has arrays : datetime, date, day, now, deltatime,hours, years......
-  We only need the datetime class and the timedelta class from the
-datetime module since we don't need access to other
- parts of the datetime module like datetime.date or
+ The datetime module has arrays : datetime, date, day, now, time, deltatime, hours, years......
+
+ to access the array datetime in the module datetime we enter it as : datetime.datetime
+
+
+ datetime module : since we don't need access to other parts of the datetime module like datetime.date or
 datetime.time. Like this we don't need to qualify the
  datetime class with the module name, e.g. for the statement
  'today = datetime.now()'
 
-import datetime
-from datetime import datetime, timedelta
+
 
  days_to_keydate is a function that calculates the number of days from today to an user entered date
  the input parameter (selected_day).
@@ -34,5 +35,5 @@ from datetime import datetime, timedelta
  day_of_the_week() is a function that compares the user entered date with calendar function
  the input parameter entered-day is transformed from a string to a datetime format with strptime
  the asked day is transformed from the datetime format again to string format strftime -> %A weekday
- the return value is a week day as a string type data
+ the return value is a week day as a string type data.
 
