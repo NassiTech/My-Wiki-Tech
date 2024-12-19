@@ -1,4 +1,12 @@
 # datetime library
+
+**Links** :
+ link : https://stackoverflow.com/questions/36341484/get-day-name-from-weekday-int
+ https://stackoverflow.com/questions/8380389/get-day-name-from-datetime
+https://stackoverflow.com/questions/8380389/get-day-name-from-datetime
+https://stackoverflow.com/questions/74853453/days-till-year-end
+
+
  in order to use the datetime function, it is necessary to import it first. -> command "import datetime" module 
  The datetime module has arrays : datetime, date, day, now, deltatime,hours, years......
   We only need the datetime class and the timedelta class from the
@@ -27,3 +35,4 @@ from datetime import datetime, timedelta
  the input parameter entered-day is transformed from a string to a datetime format with strptime
  the asked day is transformed from the datetime format again to string format strftime -> %A weekday
  the return value is a week day as a string type data
+
