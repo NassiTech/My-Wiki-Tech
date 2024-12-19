@@ -2,6 +2,7 @@
 
 
 ## The datetime module : supplies classes for manipulating dates and times.
+
  Link : Introduction https://docs.python.org/3/library/datetime.html
  
  In order to use the datetime function, it is necessary to import it first. -> command "import datetime" module 
@@ -35,7 +36,11 @@ datetime.time. Like this we don't need to qualify the
  the return value is a week day as a string type data.
 
 **Links** :
+
 https://stackoverflow.com/questions/36341484/get-day-name-from-weekday-int
+
 https://stackoverflow.com/questions/8380389/get-day-name-from-datetime
+
 https://stackoverflow.com/questions/8380389/get-day-name-from-datetime
+
 https://stackoverflow.com/questions/74853453/days-till-year-end
