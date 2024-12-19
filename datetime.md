@@ -1,4 +1,4 @@
-# datetime library
+# datetime Module
 
 **Links** :
  link : https://stackoverflow.com/questions/36341484/get-day-name-from-weekday-int
@@ -6,7 +6,8 @@
 https://stackoverflow.com/questions/8380389/get-day-name-from-datetime
 https://stackoverflow.com/questions/74853453/days-till-year-end
 
-## The datetime module : supplies classes for manipulating dates and times. https://docs.python.org/3/library/datetime.html
+## The datetime module : supplies classes for manipulating dates and times.
+ Link : Introduction https://docs.python.org/3/library/datetime.html
  in order to use the datetime function, it is necessary to import it first. -> command "import datetime" module 
  The datetime module has arrays : datetime, date, day, now, time, deltatime, hours, years......
 
