@@ -3,7 +3,7 @@
 
 ## The datetime module : supplies classes for manipulating dates and times.
 
- Link : Introduction https://docs.python.org/3/library/datetime.html
+   [Introduction](https://docs.python.org/3/library/datetime.html)
  
  In order to use the datetime function, it is necessary to import it first. -> command "import datetime" module 
  The datetime module has arrays : datetime, date, day, now, time, deltatime, hours, years......
