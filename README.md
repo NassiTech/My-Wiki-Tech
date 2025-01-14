@@ -45,3 +45,29 @@ ist eine Software, die Programmierer beim Entwickeln von Anwendungen unterstütz
 **PowerShell** is a powerful scripting language and command-line shell developed by Microsoft. It is primarily designed for system administrators and power users to automate tasks, configure systems, and manage servers and workstations.See:![Powershell](./Powershell-Cheat-Sheet.md)
 
 **SSD**: (Solid State Drive) is a type of data storage device that uses flash memory to store information, offering faster read/write speeds, lower power consumption, and better durability compared to traditional Hard Disk Drives (HDDs). SSDs have no moving parts, making them more reliable and quieter.
+
+## **Network technologies**
+### WAN: Wide Area Network
+### MAN: Metropolitan Area Network
+### LAN: Local Area Network
+### PAN: Personal Area Network
+### ICMP: Internet Control Message Protocol
+### ARP: Adress Resolution Protocol
+### MAC: Media Address Control
+### IP: Interenet Protocol
+provides a logic address
+internal addresses are provided from router 
+external are assigned from ISP(internet service provider)
+### DHCP: Dynamic Host Configuration Protocol
+
+### NIC: Network Internet Card
+It can only provide one network connection 
+has exactly one permanent MAC address
+
+### Ports 
+Decide which service or program a package is addressed to
+A PC has 65.535 prts à 16 bits 
+
+### Subnet masks
+
+![Subnet Masks](./https://www.spiceworks.com/tech/networking/articles/what-is-subnet-mask/)
