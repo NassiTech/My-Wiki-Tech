@@ -115,7 +115,7 @@ The device in the internal network sends a request to the router.
 It reaches te router. The router checks in its routing list of servers. 
 It selects the path to the next closest server. It looks for the optimal transfer of data package:
 shortest distances and fastest transfer. 
-THe user request reaches the target server or destination. The reply to the request takes the way back to the sender.
+The user request reaches the target server or destination. The reply to the request takes the way back to the sender.
 The way back is not necessarily the same as the away 
 
 
