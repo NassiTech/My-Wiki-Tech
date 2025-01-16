@@ -118,3 +118,43 @@ shortest distances and fastest transfer.
 THe user request reaches the target server or destination. The reply to the request takes the way back to the sender.
 The way back is not necessarily the same as the away 
 
+
+**2025-01-16** 
+
+### HTTP HyperText Trsnsfer Protocol
+HTTP stands for “Hypertext Transfer Protocol” and describes a protocol that is used to transfer data in networks.
+It ensures the transfer of hypertext data, which enables access to websites and their content.
+As a result, the requested data is loaded and displayed by the client.
+Because of not incripted nature of http transmitted data can be intercepted by oththirder parties.
+Https is therefoe recommanded in transferring of sensitive data (personal & financial informations)
+
+### SSH Key
+The Secure Shell (SSH) enables encrypted access to the command line on HPC
+(High Performance Computing) systems as well as encrypted data transfer.
+Authentication can be carried out using key pairs instead of entering a password.
+SSH key pairs consist of indivisible pair -> a private and a public key.
+
+### NAT Network Address Translation
+Is the translator for internal (home network) network addresses into external addresses. 
+
+### TCP/IP 
+TCP/IP stands for Transmission Control Protocol/Internet Protocol and is a suite of communication protocols
+used to interconnect network devices on the internet. 
+TCP/IP specifies how data is exchanged over the internet by providing end-to-end communications 
+that identify how it should be broken into packets, addressed, transmitted, routed and received at the destination.
+TCP/IP requires little central management and is designed to make networks reliable 
+with the ability to recover automatically from the failure of any device on the network.
+
+### UDP 
+Compared to other protocols, UDP performs this process in a simple way:
+It sends packets (data transfer units) directly to a destination computer without first establishing a connection,
+specifying the order of the packets or checking whether they have arrived as intended.
+UDP accelerates transmissions by enabling the transfer of data before the recipient has given their consent.
+UDP is therefore advantageous for time-critical communication, such as 
+Voice over IP (VoIP), DNS lookup (Domain Name System) and video or audio playback.
+
+### DNS Domaine Name System
+Is a system that manages assignment of names to IP addresses. It translates name requests into IP addresses.
+It controls which server users reaches when they enter a domain name in the browser.
+Mostly usedUDP-Port numbers  are: 53 (DNS), 69 (TFTP), 161 (SNMP)
+
